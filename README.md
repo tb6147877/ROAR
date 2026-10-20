@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<em>These two videos compare the behaviors of Gemini-3.1 Pro (top two) and GPT-5.4 (bottom two) in the mixed level (2v2 team battle, goal: defeat all opponents) under the turn-based setting (left) and the real-time setting (right) with a fixed interval of 40 ms. Under the turn-based setting, Gemini-3.1 Pro quickly defeats GPT-5.4 due to its stronger performance. In contrast, under the real-time setting, Gemini-3.1 Pro is eliminated by the toxic zone due to delayed actions.</em>
+<em>These two videos compare the behaviors of Gemini-3.1 Pro (top two, control the knight) and GPT-5.4 (bottom two, control the clown) in the mixed level (2v2 team battle, goal: defeat all opponents) under the turn-based setting (left) and the real-time setting (right) with a fixed interval of 40 ms. Under the turn-based setting, Gemini-3.1 Pro quickly defeats GPT-5.4 due to its stronger performance. In contrast, under the real-time setting, Gemini-3.1 Pro is eliminated by the toxic zone due to delayed actions.</em>
 </p>
 
 
