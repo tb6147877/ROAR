@@ -4,8 +4,8 @@
 </h1>
 
 <p align="center">
-  <img src="./assets/tb.gif" width="30%">
-  <img src="./assets/rt.gif" width="30%">
+  <img src="./assets/tb.gif" width="48%">
+  <img src="./assets/rt.gif" width="48%">
 </p>
 
 <p align="center">
