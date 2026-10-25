@@ -23,4 +23,4 @@
 
 
 
-We are actively working to prepare the relevant code for release. The ROAR executable and its accompanying Python code are expected to be released by October 25, 2026, while the code for Multi-Agent Asynchronous Gym is expected to be released by November 1, 2026.
+We are actively working to prepare the relevant code for release. Both the ROAR executable and its accompanying Python code, as well as the code for Multi-Agent Asynchronous Gym, are expected to be released before December 8, 2026, the start date of NeurIPS 2026.
