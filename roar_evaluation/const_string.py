@@ -1,0 +1,10 @@
+ROAR_SINGLE_PATH= "/home/xxxx/ROARPython/roar_single/roar.x86_64"
+ROAR_SINGLE_ENV_CFG_PATH= "/home/xxxx/ROARPython/roar_single/roar_Data/StreamingAssets/Config/EnvConfig.json"
+ROAR_MULTI_COO_PATH= "/home/xxxx/ROARPython/roar_multi_coo/roar.x86_64"
+ROAR_MULTI_COO_ENV_CFG_PATH= "/home/xxxx/ROARPython/roar_multi_coo/roar_Data/StreamingAssets/Config/EnvConfig.json"
+ROAR_MULTI_COM_PATH= "/home/xxxx/ROARPython/roar_multi_com/roar.x86_64"
+ROAR_MULTI_COM_ENV_CFG_PATH= "/home/xxxx/ROARPython/roar_multi_com/roar_Data/StreamingAssets/Config/EnvConfig.json"
+ROAR_MULTI_MIX_PATH= "/home/xxxx/ROARPython/roar_multi_mix/roar.x86_64"
+ROAR_MULTI_MIX_ENV_CFG_PATH= "/home/xxxx/ROARPython/roar_multi_mix/roar_Data/StreamingAssets/Config/EnvConfig.json"
+
+LMM_API_KEY= "xxxxx"

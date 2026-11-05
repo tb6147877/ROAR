@@ -23,4 +23,13 @@
 
 
 
-We are actively working to prepare the relevant code for release. Both the ROAR executable and its accompanying Python code, as well as the code for Multi-Agent Asynchronous Gym, are expected to be released before December 8, 2026, the start date of NeurIPS 2026.
+# 📖 How to run
+## 1. Unzip the executable file for the corresponding ROAR environment level in `./environments`. You may also try it out yourself.😊
+
+## 2. Install the Conda environment using the `./environment.yaml` file with Python version 3.10.12.
+
+## 3. Fill in the path to the environment executable unzipped in Step 1 and the path to the configuration file in `roar_evaluation/const_string.py`, following the locations indicated in this file. Also configure the API keys for the LMMs in this file. For easier reproducibility, all API calls have been adapted to use OpenRouter by default, but you may modify the API interfaces in the code as needed.
+
+## 4. Run `roar_evaluation/roar_benchmark.py` to start the experiment. You may modify the parameters in the script to conduct different experiments.
+
+# 🔥 This repository is actively being updated. Stay tuned for more!
